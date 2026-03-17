@@ -33,8 +33,8 @@ Simulates alert analysis, traffic investigation, timeline creation, false positi
 - [Group Incident Response Report](reports/group-incident-response-report.pdf)
 
 ## Screenshots
-![Wireshark Timeline](wireshark_timeline.jpg)
+![Wireshark Timeline](https://raw.githubusercontent.com/rpalatty1/soc-incident-response/main/pcap/wireshark_timeline.jpg)
 
-![PCAP Properties](pcap_properties.jpg)
+![PCAP Properties](https://raw.githubusercontent.com/rpalatty1/soc-incident-response/main/pcap/pcap_properties.jpg)
 
-![PCAP Properties 2](pcap_properties2.jpg)
+![PCAP Properties 2](https://raw.githubusercontent.com/rpalatty1/soc-incident-response/main/pcap/pcap_properties2.jpg)
