@@ -34,5 +34,7 @@ Simulates alert analysis, traffic investigation, timeline creation, false positi
 
 ## Screenshots
 ![](pcap/wireshark_timeline.jpg)
+
 ![](pcap/pcap_properties.jpg)
+
 ![](pcap/pcap_properties2.jpg)
